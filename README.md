@@ -1,0 +1,1 @@
+A Python implementation of a cache management system using doubly linked lists and hash maps. It provides efficient storage and retrieval of content items with different eviction policies like Most Recently Used (MRU) and Least Recently Used (LRU). This system allows for easy integration into various applications requiring caching functionality.
